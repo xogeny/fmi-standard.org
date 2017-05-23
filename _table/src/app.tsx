@@ -1,10 +1,6 @@
 import React = require('react');
 import axios from 'axios';
 
-export interface Results {
-
-}
-
 export interface AppProps {
     url: string;
 }
