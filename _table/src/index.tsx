@@ -3,4 +3,6 @@ import ReactDOM = require('react-dom');
 
 import { App } from './app';
 
-ReactDOM.render(<App />, document.getElementById("tool-table"));
+export function run(url: string) {
+    ReactDOM.render(<App url={url} />, document.getElementById("tool-table"));
+}
