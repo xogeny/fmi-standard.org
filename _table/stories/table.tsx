@@ -4,5 +4,5 @@ import { App } from '../src/app';
 
 storiesOf("Table", module)
     .add("Table Application", () => (
-        <App url="./results.json" />
+        <App url="./table.json" />
     ))

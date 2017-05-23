@@ -1,12 +1,13 @@
 import React = require('react');
 import axios from 'axios';
+import { Table } from './table';
 
 export interface AppProps {
     url: string;
 }
 
 export interface AppState {
-    results: Results | null;
+    table: Table | null;
     error: string | null;
 }
 
@@ -14,7 +15,7 @@ export class App extends React.Component<AppProps, AppState> {
     constructor(props?: AppProps, context?: any) {
         super(props, context);
         this.state = {
-            results: null,
+            table: null,
             error: null,
         }
         this.updateResults();
@@ -23,14 +24,14 @@ export class App extends React.Component<AppProps, AppState> {
         let ax = axios.create();
         ax.get(this.props.url).then((body) => {
             console.log("data = ", body.data);
-            this.setState({ ...this.state, error: null, results: body.data });
+            this.setState({ ...this.state, error: null, table: body.data });
             return body.data;
         }).catch((e) => {
-            this.setState({ ...this.state, error: e.toString(), results: null })
+            this.setState({ ...this.state, error: e.toString(), table: null })
         })
     }
     render() {
-        if (this.state.results == null) return <span>Loading...</span>;
-        return <span>Hello{JSON.stringify(this.state.results)}</span>;
+        if (this.state.table == null) return <span>Loading...</span>;
+        return <span>Hello{JSON.stringify(this.state.table)}</span>;
     }
 }

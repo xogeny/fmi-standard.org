@@ -17,24 +17,3 @@ export interface Table {
 }
 
 // TODO: Include code to process a Result into a Table
-
-export const dummyTable: Table = {
-    details: {
-        "20-sim": {
-            support: {
-                "FMI 1.0": {
-                    "export": { status: null },
-                    "import": { status: null },
-                    "slave": { status: "available" },
-                    "master": { status: "planned" },
-                },
-                "FMI 2.0": {
-                    "export": { status: null },
-                    "import": { status: null },
-                    "slave": { status: "available" },
-                    "master": { status: "planned" },
-                }
-            }
-        }
-    }
-}

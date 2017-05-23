@@ -16,7 +16,8 @@ module.exports = function (config, env) {
 
     config.plugins.push(new CopyWebpackPlugin([
         // {output}/file.txt
-        { from: '../results.json', to: "results.json" }
+        { from: '../results.json', to: "results.json" },
+        { from: '../table.json', to: "table.json" }
     ], { debug: false }));
 
     config.resolve.extensions.push(".tsx");
