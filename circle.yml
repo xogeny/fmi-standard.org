@@ -7,9 +7,10 @@ dependencies:
     - bundle exec jekyll build
 
 # This is a good idea, but it also points out lots of issues...sigh!
-#test:
-#  post:
-#    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+test:
+  post:
+    - echo "Looks Good!"
+#    - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --disable-external
 
 general:
   artifacts:
