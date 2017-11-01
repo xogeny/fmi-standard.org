@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    <link href="https://unpkg.com/normalize.css@^4.1.1" rel="stylesheet" />
+    <link href="https://unpkg.com/@blueprintjs/core@^1.11.0/dist/blueprint.css" rel="stylesheet" />  
+
     <meta property='og:title' content="{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}">
     <meta property='og:description' content="{{ site.description}}">
     <meta property='og:url' content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
