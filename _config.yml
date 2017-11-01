@@ -21,3 +21,4 @@ url: http://fmi-standard.org
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
+exclude: [vendor]

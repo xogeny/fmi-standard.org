@@ -9,3 +9,7 @@ dependencies:
 test:
   post:
     - bundle exec htmlproofer ./_site --allow-hash-href --check-favicon --check-html --disable-external
+
+general:
+  artifacts:
+    - "_site" # So we can see the generated files in CircleCI
