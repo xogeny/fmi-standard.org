@@ -1,5 +1,7 @@
-# Run project localy
+# Run project locally
+
 ## Requirements
+
 1. Open Terminal.
 2. Check whether you have Ruby 2.1.0 or higher installed:
   
@@ -101,6 +103,7 @@ You can use this fields:
     ```
     
 # Deployment
+
 Just push to `master` branch:
 
 `git push origin master`
