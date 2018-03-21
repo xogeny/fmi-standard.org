@@ -3,7 +3,7 @@
         "id": "20sim",
         "displayName": "20-sim",
         "homepage": "http://www.20sim.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Modeling and simulation program for mechatronic systems and control.",
         "fmi1": {
             "export": "unsupported",
@@ -29,7 +29,7 @@
         "id": "20sim4C",
         "displayName": "20-sim 4C",
         "homepage": "http://www.20sim4C.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Rapid prototyping tool for embedded hardware and industrial controllers.",
         "fmi1": {
             "export": "unsupported",
@@ -55,7 +55,7 @@
         "id": "AMESim",
         "displayName": "Amesim",
         "homepage": "http://www.plm.automation.siemens.com/en_us/products/lms/imagine-lab/index.shtml",
-        "email": "undefined",
+        "email": null,
         "note": "Integrated simulation platform for the analysis of multi-domain mechatronics systems by Siemens PLM Software",
         "fmi1": {
             "export": "available",
@@ -107,7 +107,7 @@
         "id": "ANSYS_SCADE_Display",
         "displayName": "ANSYS SCADE Display",
         "homepage": "http://www.ansys.com/Products/Simulation+Technology/Systems+&+Embedded+Software/ANSYS+SCADE+Display",
-        "email": "undefined",
+        "email": null,
         "note": "SCADE Display facilitates embedded graphics, display and HMI development and certified code generation for safety-critical displays from <a href=\"http://www.ansys.com\">ANSYS</a>.",
         "fmi1": {
             "export": "available",
@@ -133,7 +133,7 @@
         "id": "ANSYS_SCADE_Suite",
         "displayName": "ANSYS SCADE Suite",
         "homepage": "http://www.ansys.com/Products/Simulation+Technology/Systems+&+Embedded+Software/ANSYS+SCADE+Suite",
-        "email": "undefined",
+        "email": null,
         "note": "SCADE Suite is a model-based development environment with certified code generation for safety critical embedded applications from <a href=\"http://www.ansys.com\">ANSYS</a>.",
         "fmi1": {
             "export": "available",
@@ -159,7 +159,7 @@
         "id": "ANSYS_Simplorer",
         "displayName": "ANSYS Simplorer",
         "homepage": "http://www.ansys.com/Products/Systems/ANSYS-Simplorer",
-        "email": "undefined",
+        "email": null,
         "note": "ANSYS Simplorer is a multi-domain, multi-technology simulation program from <a href=\"http://www.ansys.com\">ANSYS</a>.",
         "fmi1": {
             "export": "available",
@@ -185,7 +185,7 @@
         "id": "ASim",
         "displayName": "ASim - AUTOSAR Simulation",
         "homepage": "http://www.3ds.com/products-services/catia/products/autosarbuilder/",
-        "email": "undefined",
+        "email": null,
         "note": "AUTOSAR product from Dassault Syst&egrave",
         "fmi1": {
             "export": "available",
@@ -211,7 +211,7 @@
         "id": "AVL_CRUISE_M",
         "displayName": "AVL CRUISE M",
         "homepage": "https://www.avl.com/cruise-m",
-        "email": "undefined",
+        "email": null,
         "note": "AVL CRUISE™ M is a realtime, multi-disciplinary, vehicle system simulation software used in office environments for the design of powertrains and thermal management systems, in HiL environments for control function development and calibration, and in testbed environments to provide simulation models for component testing.",
         "fmi1": {
             "export": "unsupported",
@@ -237,7 +237,7 @@
         "id": "AVL_Cruise",
         "displayName": "AVL CRUISE",
         "homepage": "https://www.avl.com/cruise",
-        "email": "undefined",
+        "email": null,
         "note": "Vehicle system analysis tool for the optimization of fuel efficiency, emission, performance and driveability, from office to HiL to testbed.",
         "fmi1": {
             "export": "planned",
@@ -263,7 +263,7 @@
         "id": "AVL_Model.CONNECT",
         "displayName": "AVL Model.CONNECT",
         "homepage": "https://www.avl.com/en/web/10138/iodp",
-        "email": "undefined",
+        "email": null,
         "note": "Model.CONNECT&trade",
         "fmi1": {
             "export": "unsupported",
@@ -289,7 +289,7 @@
         "id": "Adams",
         "displayName": "Adams",
         "homepage": "http://www.mscsoftware.com/Products/CAE-Tools/Adams.aspx",
-        "email": "undefined",
+        "email": null,
         "note": "High end multibody dynamics simulation software from <a href=\"http://www.mscsoftware.com/\">MSC Software</a>",
         "fmi1": {
             "export": "unsupported",
@@ -315,7 +315,7 @@
         "id": "AtSource",
         "displayName": "@Source",
         "homepage": "http://podiumtechnology.co.uk/atsource-targets.htm",
-        "email": "undefined",
+        "email": null,
         "note": "Simulink via @Source",
         "fmi1": {
             "export": "available",
@@ -341,7 +341,7 @@
         "id": "AutomationStudio",
         "displayName": "B&R Automation Studio",
         "homepage": "http://www.br-automation.com/en/",
-        "email": "undefined",
+        "email": null,
         "note": "B&Rs Automation Studio is a software engineering platform for industrial automation targetting PLCs, industrial PCs, HMI and embedded controllers from <a href=\"http://www.br-automation.com/\">B&R</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -367,7 +367,7 @@
         "id": "Axisuite",
         "displayName": "axisuite",
         "homepage": "http://www.exothermia.com/home/index.php?option=com_content&view=article&id=120&Itemid=127&lang=en",
-        "email": "undefined",
+        "email": null,
         "note": "Simulation of exhaust aftertreatment systems from <a href=\"http://www.exothermia.com/home/index.php\">Exothermia</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -393,7 +393,7 @@
         "id": "BCVTB",
         "displayName": "Building Controls Virtual Test Bed",
         "homepage": "http://simulationresearch.lbl.gov/bcvtb/",
-        "email": "undefined",
+        "email": null,
         "note": "BCVTB is a Software environment, based on <a href=\"http://ptolemy.eecs.berkeley.edu/index.htm\">Ptolemy II</a>, for co-simulation of, and data exchange with, building energy and control systems.",
         "fmi1": {
             "export": "unsupported",
@@ -445,7 +445,7 @@
         "id": "CANoe",
         "displayName": "CANoe",
         "homepage": "http://vector.com/vi_canoe_de.html",
-        "email": "undefined",
+        "email": null,
         "note": "CANoe is the comprehensive software tool for development, test and analysis of entire ECU networks and individual ECUs.",
         "fmi1": {
             "export": "available",
@@ -471,7 +471,7 @@
         "id": "CATIA",
         "displayName": "CATIA",
         "homepage": "http://org-www.3ds.com/products-services/catia/products/v6/portfolio/d/digital-product-experience/s/catia-systems-engineering/",
-        "email": "undefined",
+        "email": null,
         "note": "Environment for Product Design and Innovation, including systems engineering tools based on Modelica, by Dassault Syst&egrave",
         "fmi1": {
             "export": "available",
@@ -497,7 +497,7 @@
         "id": "COE",
         "displayName": "INTO-CPS Co-simulation Orchestration Engine (COE)",
         "homepage": "http://into-cps.github.io/",
-        "email": "undefined",
+        "email": null,
         "note": "A free standalone FMI co-simulation master implemented in Java with a JSON API. It is developed as part of the <a href=\"http://into-cps.au.dk/\">INTO-CPS project</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -523,7 +523,7 @@
         "id": "CPPFMU",
         "displayName": "CPPFMU",
         "homepage": "https://github.com/viproma/cppfmu",
-        "email": "undefined",
+        "email": null,
         "note": "Interfaces and helper functions for writing FMI-compliant model/slave code in C++.",
         "fmi1": {
             "export": "planned",
@@ -548,8 +548,8 @@
     {
         "id": "Cameo",
         "displayName": "Cameo Simulation Toolkit (MagicDraw plugin)",
-        "homepage": "",
-        "email": "undefined",
+        "homepage": null,
+        "email": null,
         "note": "FMUs can be imported, represented, connected and co-simulated in SysML models.",
         "fmi1": {
             "export": "unsupported",
@@ -566,7 +566,7 @@
         "vendor": {
             "vendorId": "NoMagic",
             "displayName": "NoMagic",
-            "href": "",
+            "href": null,
             "email": "undefined",
             "repo": "git@github.com:fmi-xc/NoMagic"
         }
@@ -575,7 +575,7 @@
         "id": "CarMaker",
         "displayName": "CarMaker",
         "homepage": "http://www.ipg.de/index.php?id=carmaker",
-        "email": "undefined",
+        "email": null,
         "note": "CarMaker is an open test- and integration-platform for MiL, SiL and HiL.",
         "fmi1": {
             "export": "unsupported",
@@ -601,7 +601,7 @@
         "id": "ControlBuild",
         "displayName": "ControlBuild",
         "homepage": "http://www.3ds.com/products-services/catia/products/controlbuild/",
-        "email": "undefined",
+        "email": null,
         "note": "Environment for IEC 61131-3 control applications from Dassault Systèmes",
         "fmi1": {
             "export": "available",
@@ -627,7 +627,7 @@
         "id": "Coral",
         "displayName": "Coral",
         "homepage": "https://github.com/viproma/coral",
-        "email": "undefined",
+        "email": null,
         "note": "Free and open-source software for distributed co-simulation.",
         "fmi1": {
             "export": "unsupported",
@@ -653,7 +653,7 @@
         "id": "CosiMate",
         "displayName": "CosiMate",
         "homepage": "http://www.cosimate.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Co-simulation Environment from ChiasTek",
         "fmi1": {
             "export": "unsupported",
@@ -679,7 +679,7 @@
         "id": "Cybernetica_CENIT",
         "displayName": "Cybernetica CENIT",
         "homepage": "http://cenit.cybernetica.no",
-        "email": "undefined",
+        "email": null,
         "note": "Industrial product for nonlinear Model Predictive Control (NMPC) from Cybernetica.",
         "fmi1": {
             "export": "unsupported",
@@ -705,7 +705,7 @@
         "id": "Cybernetica_ModelFit",
         "displayName": "Cybernetica ModelFit",
         "homepage": "http://modelfit.cybernetica.no",
-        "email": "undefined",
+        "email": null,
         "note": "Software for model verification, state and parameter estimation, using logged process data. By Cybernetica.",
         "fmi1": {
             "export": "unsupported",
@@ -731,7 +731,7 @@
         "id": "DACCOSIM",
         "displayName": "DACCOSIM",
         "homepage": "http://daccosim.foundry.supelec.fr/",
-        "email": "undefined",
+        "email": null,
         "note": "Master Algorithm generator & deployer from RISEGrid for a multi-OS, multi-threaded and distributed cosimulation implementing all the FMI 2.0 features.",
         "fmi1": {
             "export": "unsupported",
@@ -757,7 +757,7 @@
         "id": "DAFUL",
         "displayName": "DAFUL",
         "homepage": "http://www.virtualmotion.co.kr/en/index.do",
-        "email": "undefined",
+        "email": null,
         "note": "Intergrated structure and motion analysis software from <a href=\"http://www.virtualmotion.co.kr/en/index.do\">VirtualMotion</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -783,7 +783,7 @@
         "id": "DSHplus",
         "displayName": "DSHplus",
         "homepage": "http://www.fluidon.com",
-        "email": "undefined",
+        "email": null,
         "note": "Fluid power simulation software from <a href=\"http://www.fluidon.com\">FLUIDON</a>",
         "fmi1": {
             "export": "planned",
@@ -809,7 +809,7 @@
         "id": "DS_FMU_Export_from_Simulink",
         "displayName": "DS - FMU Export from Simulink",
         "homepage": "http://www.dymola.com/FMI",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.dymola.com/FMI\">FMI Kit for Simulink </a> provided by Dassault Syst&egrave",
         "fmi1": {
             "export": "available",
@@ -835,7 +835,7 @@
         "id": "DS_FMU_Import_into_Simulink",
         "displayName": "DS - FMU Import into Simulink",
         "homepage": "http://www.dymola.com/FMI",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.dymola.com/FMI\">FMI Kit for Simulink </a> provided by Dassault Syst&egrave",
         "fmi1": {
             "export": "unsupported",
@@ -861,7 +861,7 @@
         "id": "DYNA4",
         "displayName": "DYNA4",
         "homepage": "http://www.tesis-dynaware.com/en/products/dyna4-howtos-overview/dyna4-howto/use-of-modelica-based-models-in-dyna4.html",
-        "email": "undefined",
+        "email": null,
         "note": "Open and flexible simulation framework by <a href=\"http://www.tesis-dynaware.com\">TESIS DYNAware</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -887,7 +887,7 @@
         "id": "Dymola",
         "displayName": "Dymola",
         "homepage": "http://www.3ds.com/products-services/catia/capabilities/modelica-systems-simulation-info/dymola",
-        "email": "undefined",
+        "email": null,
         "note": "Modelica environment from Dassault Syst&egrave",
         "fmi1": {
             "export": "available",
@@ -913,7 +913,7 @@
         "id": "ETAS_ASCMO",
         "displayName": "ETAS - ASCMO",
         "homepage": "http://www.etas.com/en/products/ascmo.php",
-        "email": "undefined",
+        "email": null,
         "note": "Creation and export of statistical (meta) models using Design of Experiments (DoE) from <a href=\"http://www.etas.com/en/\">ETAS</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -939,7 +939,7 @@
         "id": "ETAS_FMI",
         "displayName": "ETAS - FMI-based Integration and Simulation Platform",
         "homepage": "https://www.modelica.org/publications/newsletters/2014-1/index_html",
-        "email": "undefined",
+        "email": null,
         "note": "Integration and simulation platform based on FMI 1.0 from <a href=\"http://www.etas.com/en\">ETAS</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -965,7 +965,7 @@
         "id": "ETAS_FMU_Generator_for_ASCET",
         "displayName": "ETAS - FMU Generator for ASCET",
         "homepage": "https://www.modelica.org/publications/newsletters/2014-1/index_html",
-        "email": "undefined",
+        "email": null,
         "note": "FMU Generator for <a href=\"http://www.etas.com/en/products/ascet_software_products.php\">ASCET</a> from <a href=\"http://www.etas.com/en\">ETAS</a>.",
         "fmi1": {
             "export": "planned",
@@ -991,7 +991,7 @@
         "id": "ETAS_FMU_Generator_for_Simulink",
         "displayName": "ETAS - FMU Generator for Simulink<sup>&reg",
         "homepage": "https://www.modelica.org/publications/newsletters/2014-1/index_html",
-        "email": "undefined",
+        "email": null,
         "note": "FMU Generator for Simulink<sup>&reg",
         "fmi1": {
             "export": "planned",
@@ -1017,7 +1017,7 @@
         "id": "ETAS_INCA_FLOW",
         "displayName": "ETAS - INCA-FLOW (MiL/SiL Connector)",
         "homepage": "http://www.etas.com/en/products/inca_flow.php",
-        "email": "undefined",
+        "email": null,
         "note": "Guided and automated calibration of FMUs with connection to ETAS INCA.",
         "fmi1": {
             "export": "unsupported",
@@ -1043,7 +1043,7 @@
         "id": "ETAS_ISOLAR_EVE",
         "displayName": "ETAS - ISOLAR-EVE (ETAS Virtual ECU)",
         "homepage": "http://www.etas.com/en/products/isolar_eve.php",
-        "email": "undefined",
+        "email": null,
         "note": "PC based platform from <a href=\"http://www.etas.com/en\">ETAS</a> for ECU software validation at the component, sub-system or system level",
         "fmi1": {
             "export": "unsupported",
@@ -1069,7 +1069,7 @@
         "id": "ETAS_LABCAR_OPERATOR",
         "displayName": "ETAS - LABCAR-OPERATOR",
         "homepage": "http://www.etas.com/en/products/labcar_operator.php",
-        "email": "undefined",
+        "email": null,
         "note": "Frontend for ETAS HiL systems LABCAR, operating on the creation of experiments and their subsequent execution.",
         "fmi1": {
             "export": "unsupported",
@@ -1095,7 +1095,7 @@
         "id": "Easy5",
         "displayName": "Easy5",
         "homepage": "http://http://www.mscsoftware.com/product/easy5",
-        "email": "undefined",
+        "email": null,
         "note": "High performance simulation environment for multi-domain system dynamics from <a href=\"http://www.mscsoftware.com/\">MSC Software</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -1121,7 +1121,7 @@
         "id": "EcosimPro",
         "displayName": "EcosimPro",
         "homepage": "http://www.ecosimpro.com/products/ecosimpro/",
-        "email": "undefined",
+        "email": null,
         "note": "EcosimPro, System Modelling and Simulation Software",
         "fmi1": {
             "export": "unsupported",
@@ -1147,7 +1147,7 @@
         "id": "EnergyPlus",
         "displayName": "EnergyPlus",
         "homepage": "http://simulationresearch.lbl.gov/fmu/EnergyPlus/export/index.html",
-        "email": "undefined",
+        "email": null,
         "note": "Whole building energy simulation program",
         "fmi1": {
             "export": "unsupported",
@@ -1199,7 +1199,7 @@
         "id": "FMILibrary",
         "displayName": "FMI Library",
         "homepage": "http://www.fmi-library.org/",
-        "email": "undefined",
+        "email": null,
         "note": "Open source (BSD) C library for integration of FMI technology in custom applications by <a href=\"http://www.modelon.com/\"​>Modelon</a>.",
         "fmi1": {
             "export": "planned",
@@ -1225,7 +1225,7 @@
         "id": "FMITarget_for_Simulink_Coder",
         "displayName": "FMI Target for Simulink Coder",
         "homepage": "https://cdn.simulationx.de/en/pdf/FMI-Target-for-Simulink-Coder.pdf",
-        "email": "undefined",
+        "email": null,
         "note": "Export of stand-alone FMUs for Co-Simulation from Simulink using Simulink Coder - provided by <a href=\"http://www.itisim.com/\">ITI</a>",
         "fmi1": {
             "export": "unsupported",
@@ -1251,7 +1251,7 @@
         "id": "FMIToolbox_MATLAB",
         "displayName": "FMI Toolbox for MATLAB/Simulink",
         "homepage": "http://www.modelon.com/products/fmi-toolbox-for-matlab",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.modelon.com/products/fmi-toolbox-for-matlab\">The FMI Toolbox for MATLAB/Simulink</a> from <a href=\"http://www.modelon.com\">Modelon</a> enables FMU import and export for MATLAB/Simulink for both model exchange and co-simulation.",
         "fmi1": {
             "export": "available",
@@ -1277,7 +1277,7 @@
         "id": "FMI_Addin_for_Excel",
         "displayName": "FMI Add-in for Excel",
         "homepage": "http://www.modelon.com/products/fmi-add-in-for-excel/",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.modelon.com/products/fmi-add-in-for-excel/\">FMI Add-in for Microsoft Excel</a> by ​<a href=\"http://www.modelon.com/\"​>Modelon</a>. Offers support for batch simulation of FMUs.",
         "fmi1": {
             "export": "unsupported",
@@ -1303,7 +1303,7 @@
         "id": "FMI_Blockset_for_Simulink",
         "displayName": "FMI Blockset for Simulink",
         "homepage": "http://www.claytex.com/products/fmi-blockset/",
-        "email": "undefined",
+        "email": null,
         "note": "The FMI Blockset for Simulink enables the import of FMU's for use in Simulink - developed by <a href=\"http://www.claytex.com\">Claytex</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -1329,7 +1329,7 @@
         "id": "FMI_Composer",
         "displayName": "FMI Composer",
         "homepage": "http://www.modelon.com/products/fmi-tools/fmi-composer/",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.modelon.com/products/fmi-tools/fmi-composer/\">FMI Composer</a> from <a href=\"http://www.modelon.com\">Modelon</a> is a software platform enabling users to build system models from multiple FMUs. FMI Composer is built entirely on the FMI and upcoming SSP standards.",
         "fmi1": {
             "export": "unsupported",
@@ -1355,7 +1355,7 @@
         "id": "FMI_addon_for_NI_VeriStand",
         "displayName": "FMI add-on for NI VeriStand",
         "homepage": "http://www.dofware.com/img/FMI_Flyer.pdf",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"http://www.ni.com/veristand/\">NI VeriStand</a> supports FMI through the use of the <a href=\"http://www.dofware.com/img/FMI_Flyer.pdf\">FMI add-on for NI VeriStand</a> from <a href=\"http://www.dofware.com/\">Dofware</a>",
         "fmi1": {
             "export": "unsupported",
@@ -1381,7 +1381,7 @@
         "id": "FMPy",
         "displayName": "FMPy",
         "homepage": "https://github.com/CATIA-Systems/FMPy",
-        "email": "undefined",
+        "email": null,
         "note": "A Python library to simulate FMUs",
         "fmi1": {
             "export": "unsupported",
@@ -1407,7 +1407,7 @@
         "id": "FMUSDK",
         "displayName": "FMUSDK",
         "homepage": "http://www.qtronic.de/en/fmusdk.html",
-        "email": "undefined",
+        "email": null,
         "note": "FMU Software Development Kit from <a href=\"http://www.qtronic.de/\">QTronic</a>.",
         "fmi1": {
             "export": "available",
@@ -1433,7 +1433,7 @@
         "id": "Flowmaster",
         "displayName": "Flowmaster",
         "homepage": "http://www.mentor.com/products/mechanical/flowmaster/flowmaster-automotive/options",
-        "email": "undefined",
+        "email": null,
         "note": "High capability 1D CFD tool for thermo-fluid simulation from <a href=\"http://www.mentor.com/products/mechanical/flowmaster/\">Mentor Graphics</a>.",
         "fmi1": {
             "export": "available",
@@ -1459,7 +1459,7 @@
         "id": "GES",
         "displayName": "General Energy Systems (GES)",
         "homepage": "http://www.tno.nl/ges",
-        "email": "undefined",
+        "email": null,
         "note": "GES is an object oriented simulation tool, for dynamic and static (algebraic) systems, Based on a hybrid bondgraph model. The tool is mainly used for ship power designs. Provided by <a href=\"http://www.tno.nl/ges\">TNO</a>.",
         "fmi1": {
             "export": "available",
@@ -1485,7 +1485,7 @@
         "id": "GT_SUITE",
         "displayName": "GT-SUITE",
         "homepage": "http://www.gtisoft.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Multi-Physics Simulation Platform for Powertrain and Vehicle Systems",
         "fmi1": {
             "export": "unsupported",
@@ -1511,7 +1511,7 @@
         "id": "Hopsan",
         "displayName": "Hopsan",
         "homepage": "http://www.iei.liu.se/flumes/system-simulation/hopsan?l=en",
-        "email": "undefined",
+        "email": null,
         "note": "Hopsan is a free simulation tool developed at Linköping University. It is using distributed solver techniques with good support for parallelism using multi-core processors.",
         "fmi1": {
             "export": "available",
@@ -1537,7 +1537,7 @@
         "id": "IBM_Rational_Rhapsody",
         "displayName": "IBM Rational Rhapsody",
         "homepage": "http://www.ibm.com/software/products/en/ratirhapfami",
-        "email": "undefined",
+        "email": null,
         "note": "IBM&reg",
         "fmi1": {
             "export": "available",
@@ -1563,7 +1563,7 @@
         "id": "ICOS",
         "displayName": "ICOS \"Independent Co-Simulation\"",
         "homepage": "http://vif.tugraz.at/en/products/icos/",
-        "email": "undefined",
+        "email": null,
         "note": "ICOS is a co-simulation tool developed by <a href=\"http://vif.tugraz.at/en/\">Virtual Vehicle</a>",
         "fmi1": {
             "export": "unsupported",
@@ -1589,7 +1589,7 @@
         "id": "IGNITE",
         "displayName": "IGNITE",
         "homepage": "http://www.ricardo.com/en-GB/What-we-do/Software/Products/IGNITE/",
-        "email": "undefined",
+        "email": null,
         "note": "Physics-based system simulation software for complete vehicle system modeling and simulation from <a href=\"http://www.ricardo.com/software\">Ricardo Software</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -1615,7 +1615,7 @@
         "id": "JFMI",
         "displayName": "JFMI",
         "homepage": "http://ptolemy.berkeley.edu/java/jfmi/",
-        "email": "undefined",
+        "email": null,
         "note": "A Java Wrapper for the Functional Mock-up Interface, based on FMU SDK",
         "fmi1": {
             "export": "unsupported",
@@ -1641,7 +1641,7 @@
         "id": "JModelica.org",
         "displayName": "JModelica.org",
         "homepage": "http://www.jmodelica.org",
-        "email": "undefined",
+        "email": null,
         "note": "Open source Modelica environment from <a href=\"http://www.modelon.com\">Modelon</a>",
         "fmi1": {
             "export": "available",
@@ -1667,7 +1667,7 @@
         "id": "JavaFMI",
         "displayName": "JavaFMI",
         "homepage": "https://bitbucket.org/siani/javafmi/wiki/Home",
-        "email": "undefined",
+        "email": null,
         "note": "JavaFMI is a Java wrapper for the Functional Mock-up Interface (1.0 or 2.0) both for Windows/Linux 32 or 64 bit OS.",
         "fmi1": {
             "export": "unsupported",
@@ -1693,7 +1693,7 @@
         "id": "LMS_Virtual.Lab_Motion",
         "displayName": "LMS Virtual.Lab Motion",
         "homepage": "http://www.lmsintl.com/simulation/virtuallab/motion",
-        "email": "undefined",
+        "email": null,
         "note": "Virtual.Lab Motion is a high end multi body software from LMS International",
         "fmi1": {
             "export": "unsupported",
@@ -1719,7 +1719,7 @@
         "id": "MESSINA",
         "displayName": "MESSINA",
         "homepage": "https://www.assystem-germany.com/en/products/messina/",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"https://www.assystem-germany.com/en/products/messina/\">MESSINA</a> is a test platform for model-based ECU function development.",
         "fmi1": {
             "export": "unsupported",
@@ -1745,7 +1745,7 @@
         "id": "MWorks",
         "displayName": "MWorks",
         "homepage": "http://www.tongyuan.cc/",
-        "email": "undefined",
+        "email": null,
         "note": "Modelica environment from Suzhou <a href=\"http://www.tongyuan.cc/\">Tongyuan</a>",
         "fmi1": {
             "export": "available",
@@ -1771,7 +1771,7 @@
         "id": "MapleSim",
         "displayName": "MapleSim",
         "homepage": "http://www.maplesoft.com/products/maplesim/modelica.aspx",
-        "email": "undefined",
+        "email": null,
         "note": "Modelica-based modeling and simulation tool from Maplesoft",
         "fmi1": {
             "export": "available",
@@ -1797,7 +1797,7 @@
         "id": "MechanicalSimulation",
         "displayName": "Mechanical Simulation: CarSim, TruckSim, BikeSim",
         "homepage": "http://www.carsim.com/",
-        "email": "undefined",
+        "email": null,
         "note": "CarSim, TruckSim, and BikeSim are vehicle dynamics software solutions from <a href=\"http://www.carsim.com/\">Mechanical Simulation</a> that support XiL development workflows and power real-time driving simulators around the globe.",
         "fmi1": {
             "export": "unsupported",
@@ -1823,7 +1823,7 @@
         "id": "MoBA_Lab",
         "displayName": "MoBA Lab",
         "homepage": "http://www.moba-lab.de/fmiCrosscheck",
-        "email": "undefined",
+        "email": null,
         "note": "MoBA Lab gives the user a wide-ranging portfolio of different tools for the model-based development process of thermal and other types of systems. The MoBA Simulator is available for Excel, Python, C++, and various other environments.",
         "fmi1": {
             "export": "planned",
@@ -1875,7 +1875,7 @@
         "id": "NI_LabVIEW",
         "displayName": "NI LabVIEW",
         "homepage": "http://www.ni.com/labview/",
-        "email": "undefined",
+        "email": null,
         "note": "Graphical programming environment for measurement, test, and control systems from National Instruments",
         "fmi1": {
             "export": "unsupported",
@@ -1901,7 +1901,7 @@
         "id": "OPTIMICA_Studio",
         "displayName": "OPTIMICA Studio",
         "homepage": "http://www.modelon.com/products/",
-        "email": "undefined",
+        "email": null,
         "note": "Discontinued",
         "fmi1": {
             "export": "unsupported",
@@ -1953,7 +1953,7 @@
         "id": "Overture",
         "displayName": "Overture",
         "homepage": "http://overturetool.org/",
-        "email": "undefined",
+        "email": null,
         "note": "Modelling tool for the Vienna Development Method with supports for export of tool wrapper and source code FMU's.",
         "fmi1": {
             "export": "unsupported",
@@ -1979,7 +1979,7 @@
         "id": "PROOSIS",
         "displayName": "PROOSIS",
         "homepage": "http://www.ecosimpro.com/products/proosis/",
-        "email": "undefined",
+        "email": null,
         "note": "PROOSIS, Propulsion Object-Oriented Simulation Software",
         "fmi1": {
             "export": "unsupported",
@@ -2005,7 +2005,7 @@
         "id": "Ptolemy_II",
         "displayName": "Ptolemy II",
         "homepage": "http://ptolemy.eecs.berkeley.edu/index.htm",
-        "email": "undefined",
+        "email": null,
         "note": "Software environment for design and analysis of heterogeneous systems.",
         "fmi1": {
             "export": "unsupported",
@@ -2031,7 +2031,7 @@
         "id": "PyFMI",
         "displayName": "PyFMI",
         "homepage": "http://pypi.python.org/pypi/PyFMI/",
-        "email": "undefined",
+        "email": null,
         "note": "For Python via the open source package <a href=\"http://pypi.python.org/pypi/PyFMI/\">PyFMI</a> from  <a href=\"http://www.modelon.com\">Modelon</a>. Also available as part of the <a href=\"http://www.jmodelica.org/\">JModelica.org</a> platform.",
         "fmi1": {
             "export": "unsupported",
@@ -2057,7 +2057,7 @@
         "id": "RecurDyn",
         "displayName": "RecurDyn",
         "homepage": "http://eng.functionbay.co.kr",
-        "email": "undefined",
+        "email": null,
         "note": "High End Multi Flexible Body Dynamcis Software from <a href=\"http://www.functionbay.co.kr\">FunctionBay</a>",
         "fmi1": {
             "export": "planned",
@@ -2082,8 +2082,8 @@
     {
         "id": "Reference_FMUs",
         "displayName": "Reference FMUs",
-        "homepage": "undefined",
-        "email": "undefined",
+        "homepage": null,
+        "email": null,
         "note": "Reference FMUs supplied by enthusiasts and volunteers to show case specific FMU features",
         "fmi1": {
             "export": "planned",
@@ -2135,7 +2135,7 @@
         "id": "ScilabXcos",
         "displayName": "Scilab/Xcos FMU wrapper",
         "homepage": "http://www.scilab.org/scilab/interoperability/fmi-module",
-        "email": "undefined",
+        "email": null,
         "note": "FMI support for <a href=\"http://www.scilab.org/\">Scilab / Xcos</a> a free and open source software for numerical computation.",
         "fmi1": {
             "export": "available",
@@ -2187,7 +2187,7 @@
         "id": "SimWB",
         "displayName": "Simulation Workbench (SimWB)",
         "homepage": "http://wiki.simwb.com/",
-        "email": "undefined",
+        "email": null,
         "note": "SimWB is an open, powerful framework to run SIL, HIL, and MIL simulations under <a href=\"https://www.ccur.com/\">Concurrent's</a> hard real-time <a href=\"https://www.ccur.com/linux/products/redhawk/\">RedHawk</a> OS that runs on COTS hardware.",
         "fmi1": {
             "export": "unsupported",
@@ -2213,7 +2213,7 @@
         "id": "SimulationX",
         "displayName": "SimulationX",
         "homepage": "https://www.simulationx.com/simulation-software/experts/fmi-simulation.html",
-        "email": "undefined",
+        "email": null,
         "note": "Multi-domain simulation tool for design, analysis and virtual prototyping of complex systems developed by <a href=\"http://www.itisim.com/\">ESI ITI GmbH</a>.",
         "fmi1": {
             "export": "available",
@@ -2265,7 +2265,7 @@
         "id": "SystemModeler",
         "displayName": "SystemModeler",
         "homepage": "http://www.wolfram.com/system-modeler",
-        "email": "undefined",
+        "email": null,
         "note": "Modelica environment from <a href=\"http://www.wolfram.com\">Wolfram Research</a>.",
         "fmi1": {
             "export": "available",
@@ -2291,7 +2291,7 @@
         "id": "TLK_FMI_Suite",
         "displayName": "TLK FMI Suite",
         "homepage": "http://www.tlk-thermo.com/",
-        "email": "undefined",
+        "email": null,
         "note": "TLK FMI Suite provides LabVIEW and Simulink blocks for FMU simulation",
         "fmi1": {
             "export": "unsupported",
@@ -2317,7 +2317,7 @@
         "id": "TLK_TISC_Suite",
         "displayName": "TLK TISC Suite",
         "homepage": "http://www.tlk-thermo.de",
-        "email": "undefined",
+        "email": null,
         "note": "Co-simulation environment from TLK-Thermo",
         "fmi1": {
             "export": "unsupported",
@@ -2343,7 +2343,7 @@
         "id": "TWT_CoSim_Framework",
         "displayName": "TWT Co-Simulation Framework",
         "homepage": "https://www.twt-gmbh.de/en/produkte/co-simulation/cosimlab.html",
-        "email": "undefined",
+        "email": null,
         "note": "Communication layer tool to flexibly plug together models for performing a co-simulation",
         "fmi1": {
             "export": "unsupported",
@@ -2369,7 +2369,7 @@
         "id": "TWT_FMU_TrustCentre",
         "displayName": "TWT FMU Trust Centre",
         "homepage": "https://www.twt-gmbh.de/en/produkte/co-simulation/functional-mock-up-trust-centre.html",
-        "email": "undefined",
+        "email": null,
         "note": "Cryptographic protection and signature of models including their safe PLM storage",
         "fmi1": {
             "export": "unsupported",
@@ -2395,7 +2395,7 @@
         "id": "VALDYN",
         "displayName": "VALDYN",
         "homepage": "http://www.ricardo.com/en-GB/What-we-do/Software/Products/VALDYN/",
-        "email": "undefined",
+        "email": null,
         "note": "Multi-body dynamic and kinematic simulation for valvetrain, powertrain and transmission systems from <a href=\"http://www.ricardo.com/software\">Ricardo Software</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -2447,7 +2447,7 @@
         "id": "WAVE_RT",
         "displayName": "WAVE-RT",
         "homepage": "http://www.ricardo.com/en-GB/What-we-do/Software/Products/WAVE-RT/",
-        "email": "undefined",
+        "email": null,
         "note": "Real-time, crank-angle resolved engine simulation tool for testing new engine management systems in SiL, HiL, and rapid-prototyping from <a href=\"http://www.ricardo.com/software\">Ricardo Software</a>.",
         "fmi1": {
             "export": "unsupported",
@@ -2473,7 +2473,7 @@
         "id": "XFlow",
         "displayName": "XFlow",
         "homepage": "http://www.xflowcfd.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Computational Fluid Dynamics (CFD) code which uses a particle-based kinetic solver based on the Lattice-Boltzmann Method, thus avoids the meshing process and allows complex fluid-structure interaction including through FMI standard co-simulation.",
         "fmi1": {
             "export": "unsupported",
@@ -2525,7 +2525,7 @@
         "id": "dSPACE_SCALEXIO",
         "displayName": "dSPACE SCALEXIO",
         "homepage": "https://www.dspace.com/go/fmi",
-        "email": "undefined",
+        "email": null,
         "note": "dSPACE SCALEXIO is a Hardware-in-the-Loop (HIL) integration and simulation platform from <a href=\"https://www.dspace.com\">dSPACE</a>. Please also refer to the <a href=\"https://www.dspace.com/go/fmi\">dSPACE FMI sites</a> for more information about the FMI 1.0 and FMI 2.0 support.",
         "fmi1": {
             "export": "unsupported",
@@ -2551,7 +2551,7 @@
         "id": "dSPACE_SYNECT",
         "displayName": "dSPACE SYNECT",
         "homepage": "https://www.dspace.com/go/fmi",
-        "email": "undefined",
+        "email": null,
         "note": "dSPACE SYNECT is a data management tool from <a href=\"https://www.dspace.com\">dSPACE</a> that enables you to manage FMUs and Simulink models as well as their dependencies, versions and variants throughout the entire software development process. Please also refer to the <a href=\"https://www.dspace.com/go/fmi\">dSPACE FMI sites</a> for more information about the FMI support.",
         "fmi1": {
             "export": "unsupported",
@@ -2577,7 +2577,7 @@
         "id": "dSPACE_TargetLink",
         "displayName": "dSPACE TargetLink",
         "homepage": "https://www.dspace.com/go/fmi",
-        "email": "undefined",
+        "email": null,
         "note": "<a href=\"https://www.dspace.com/en/pub/home/products/sw/pcgs/targetli.cfm\">TargetLink</a> is a production code generator from <a href=\"https://www.dspace.com\">dSPACE</a> that generates highly efficient C-code directly from Simulink/Stateflow models. Please also refer to the <a href=\"https://www.dspace.com/go/fmi\">dSPACE FMI sites</a> for more information about the FMI support.",
         "fmi1": {
             "export": "unsupported",
@@ -2603,7 +2603,7 @@
         "id": "dSPACE_VEOS",
         "displayName": "dSPACE VEOS",
         "homepage": "https://www.dspace.com/go/fmi",
-        "email": "undefined",
+        "email": null,
         "note": "dSPACE VEOS is a PC-based virtual integration and simulation platform from <a href=\"https://www.dspace.com\">dSPACE</a>. Please also refer to the <a href=\"https://www.dspace.com/go/fmi\">dSPACE FMI sites</a> for more information about the FMI 1.0 and FMI 2.0 support.",
         "fmi1": {
             "export": "unsupported",
@@ -2681,7 +2681,7 @@
         "id": "mpcci",
         "displayName": "MpCCI CouplingEnvironment",
         "homepage": "http://www.mpcci.de",
-        "email": "undefined",
+        "email": null,
         "note": "The <a href=\"http://www.mpcci.de\">MpCCI CouplingEnvironment</a> from <a href=\"http://www.scai.fraunhofer.de/en/business-research-areas/multiphysics.html\">Fraunhofer SCAI</a> is a vendor neutral interface for cosimulation in the 3D area",
         "fmi1": {
             "export": "unsupported",
@@ -2733,7 +2733,7 @@
         "id": "solidThinking_Activate",
         "displayName": "solidThinking Activate",
         "homepage": "http://www.altairhyperworks.com/product/solidThinking-Activate",
-        "email": "undefined",
+        "email": null,
         "note": "Software environment for modeling, simulation and analysis of multi-disciplinary systems from Altair.",
         "fmi1": {
             "export": "unsupported",
@@ -2785,7 +2785,7 @@
         "id": "xMOD",
         "displayName": "xMOD",
         "homepage": "http://www.xmodsoftware.com/",
-        "email": "undefined",
+        "email": null,
         "note": "Heterogeneous model integration environment & virtual instrumentation and experimentation laboratory from <a href=\"http://www.ifpenergiesnouvelles.com/\">IFPEN</a> distributed by <a href=\"http://www.d2t.com/\">D2T</a>.",
         "fmi1": {
             "export": "unsupported",
